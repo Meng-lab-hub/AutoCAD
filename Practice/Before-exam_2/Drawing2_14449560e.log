@@ -1,0 +1,45 @@
+[ AutoCAD - Tue Mar 31 23:25:45 2020  ]----------------------------------------
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+
+
+AutoCAD menu utilities loaded.
+AutoCAD menu utilities loaded.
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command: LTS
+LTSCALE Enter new linetype scale factor <1.0000>: 2
+Regenerating model.
+
+Command: LTS
+LTSCALE Enter new linetype scale factor <2.0000>: 1
+Regenerating model.
+
+Command: Regenerating model.
+Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _CLOSEALL 
+Command: 

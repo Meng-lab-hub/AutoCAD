@@ -1,0 +1,4166 @@
+[ AutoCAD - Wed Apr 22 09:49:22 2020  ]----------------------------------------
+
+Opening an AutoCAD 2013/LT 2013 format file.
+Regenerating model.
+
+
+AutoCAD menu utilities loaded.
+AutoCAD menu utilities loaded.
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+
+
+
+Command:  
+
+ 
+Command: 
+
+
+
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+
+
+
+
+Command:  
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+Command:  
+Command: LINE
+
+Specify first point: 
+Specify next point or [Undo]: 40
+
+Specify next point or [eXit/Undo]: 40
+
+Specify next point or [Close/eXit/Undo]: 40
+
+Specify next point or [Close/eXit/Undo]: 40
+
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: MEA
+MEASUREGEOM 
+Enter an option [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <Distance>: q
+
+Move cursor or [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <eXit>: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 40
+
+Specify next point or [eXit/Undo]: 80
+
+Specify next point or [Close/eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: MEA
+MEASUREGEOM 
+Enter an option [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <Distance>: q
+
+Move cursor or [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <eXit>: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter]: 
+Command: *Cancel*
+
+Command:  CIRCLE
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <40.0000>: 
+Command: OFFSET
+
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: 3
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 2 found
+
+Command: L
+LINE 
+Specify first point: *Cancel*
+
+Command: _u LINE 
+Command: _u ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: l
+LINE 
+Specify first point: *Cancel*
+
+Command: *Cancel*
+
+Command: _u LINE 
+Command: _u ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: LTS
+LTSCALE Enter new linetype scale factor <1.0000>: 0.1
+Regenerating model.
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY
+10 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>:  <Osnap off> 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point:  <Osnap on> 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: c
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <56.5685>: 
+Command:  CIRCLE
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <35.6313>: 
+Command:  CIRCLE
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <40.0000>: 
+Command:  CIRCLE
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command: *Cancel*
+
+Command: OFFSET
+
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <3.0000>: 3
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: tr
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 28 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: E
+ERASE 4 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: c
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <56.5685>: 40
+
+Command:  CIRCLE
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <40.0000>: 37
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 20
+
+Specify next point or [eXit/Undo]: 80
+
+Specify next point or [Close/eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: OFFSET
+
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <3.0000>: 20
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: TR
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 15 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 2 found
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: tr
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 14 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: 
+Command: E
+ERASE 1 found
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: tr
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 4 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: Specify opposite corner: 
+No objects crossed by crossing window.
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: tr
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 5 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: c
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <37.0000>: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: tr
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 10 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: TR
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 18 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: 
+Command: e
+ERASE 1 found
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: tr
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 11 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: tr
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 8 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: Specify opposite corner: 
+No objects crossed by crossing window.
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: 
+Command: E
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: OFFSET
+
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <20.0000>: 3
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: TR
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 25 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_512620642_29b666f2.sv$ ...
+
+Command: 
+Command: e
+ERASE 1 found
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: HATCH
+
+Pick internal point or [Select objects/Undo/seTtings]: Selecting everything...
+Selecting everything visible...
+Analyzing the selected data...
+
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: _K 
+Pick internal point or [Select objects/Undo/seTtings]: 
+
+Command: 
+Command: _.erase 1 found
+
+Hatch boundary associativity removed.
+Command: SOLIDEDIT
+
+Solids editing automatic checking:  SOLIDCHECK=1
+Enter a solids editing option [Face/Edge/Body/Undo/eXit] <eXit>: F
+
+Enter a face editing option
+[Extrude/Move/Rotate/Offset/Taper/Delete/Copy/coLor/mAterial/Undo/eXit] <eXit>: C
+
+Select faces or [Undo/Remove]: 
+No solids detected.
+
+Select faces or [Undo/Remove]: 
+No solids detected.
+
+Select faces or [Undo/Remove]: *Cancel*
+
+Command: Regenerating model.
+Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY
+50 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+50 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: TR
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 50 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: *Cancel*
+
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_512620642_29b666f2.sv$ ...
+
+Command: 
+Command: _u TRIM 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: tr
+TRIM 
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ... 50 found
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: Specify opposite corner: 
+No objects crossed by crossing window.
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+No objects crossed by crossing window.
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: _u 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: _u 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: _u 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+No objects crossed by crossing window.
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+No objects crossed by crossing window.
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner: 
+
+Does not intersect with the cutting edge.
+
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 29 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 4 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 9 found
+
+Command: _u ERASE 
+Crossing Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: E
+ERASE 4 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: E
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: E
+ERASE 3 found
+
+Command: 
+Command: 
+Command: e
+ERASE 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: E
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY
+15 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: *Cancel*
+
+Command: *Cancel*
+
+Command: MI
+MIRROR 
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 1 found, 4 total
+
+Select objects: 1 found, 5 total
+
+Select objects: 
+Specify first point of mirror line: 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: *Cancel*
+
+Command: MIRROR
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 1 found, 4 total
+
+Select objects: 1 found, 5 total
+
+Select objects: 
+Specify first point of mirror line: 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: N
+
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: e
+ERASE 5 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: J
+JOIN 9 found
+
+9 objects converted to 1 polyline
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: j
+JOIN 6 found
+
+6 objects converted to 1 polyline
+Command: REVOLVE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to revolve or [MOde]: 1 found
+
+Select objects to revolve or [MOde]: 
+
+Specify axis start point or define axis by [Object/X/Y/Z] <Object>: 
+Specify axis endpoint: 
+
+Specify angle of revolution or [STart angle/Reverse/EXpression] <360>: 360
+
+Command:  Regenerating model.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _c 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Conceptual>: _r 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: REVOLVE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify axis start point or define axis by [Object/X/Y/Z] <Object>: 
+Specify axis endpoint: 
+
+Specify angle of revolution or [STart angle/Reverse/EXpression] <360>: 180
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: ROTATE3D
+
+Current positive angle:  ANGDIR=counterclockwise  ANGBASE=0
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: Specify second point on axis: 
+Specify rotation angle or [Reference]: 90
+
+Command: _u ROTATE3D 
+Command: ROTATE3D
+
+Current positive angle:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: Specify opposite corner: 2 found
+
+Select objects: 
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: Specify second point on axis: 
+Specify rotation angle or [Reference]: -90
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: L
+LINE 
+Specify first point: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Too many objects selected for INTERSECT
+
+Specify next point or [Undo]: 
+Too many objects selected for INTERSECT
+
+Specify next point or [eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_512620642_29b666f2.sv$ ...
+
+Command: 
+Command: _u LINE 
+Command:  
+Command:  
+Command:  
+Command:  
+Command: l
+LINE 
+Specify first point:  
+Resuming LINE command.
+
+Specify first point: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+3 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: _u GROUP menu item 
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Checking 666 intersections... 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: OFFSET
+
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <3.0000>:  Specify second point: 
+Checking 666 intersections... 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _acadpane _leftpane _show 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 40
+
+Specify next point or [eXit/Undo]: 40
+
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: _u LINE 
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _3 
+Specify new origin point <0,0,0>: 
+Specify point on positive portion of X-axis <2753.4017,1222.7008,0.0000>: 
+
+Coincident with first point
+
+Specify point on positive portion of X-axis <2753.4017,1222.7008,0.0000>: 
+
+Coincident with first point
+
+Specify point on positive portion of X-axis <2753.4017,1222.7008,0.0000>: 
+Specify point on positive-Y portion of the UCS XY plane <2752.4017,1221.7008,0.0000>:  
+Resuming UCS command.
+
+Specify point on positive-Y portion of the UCS XY plane <2752.4017,1221.7008,0.0000>: 
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _3 
+Specify new origin point <0,0,0>: 
+Specify point on positive portion of X-axis <1.0000,53.5685,0.0000>: 
+
+Coincident with first point
+
+Specify point on positive portion of X-axis <1.0000,53.5685,0.0000>:  <Osnap off> 
+Specify point on positive-Y portion of the UCS XY plane <0.0000,52.5685,0.0000>: 
+Command:  
+Command: l
+LINE 
+Specify first point:  <Osnap on> 
+Specify next point or [Undo]: 40
+
+Specify next point or [eXit/Undo]: 40
+
+Specify next point or [Close/eXit/Undo]: 80
+
+Specify next point or [Close/eXit/Undo]: 80
+
+Specify next point or [Close/eXit/Undo]: 80
+
+Specify next point or [Close/eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: j
+JOIN 5 found
+
+5 objects converted to 1 polyline
+Command: 
+Command: *Cancel*
+
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: s
+
+Select a surface: 
+No surfaces selected.
+Select a surface: 
+No surfaces selected.
+Select a surface: 
+No surfaces selected.
+Select a surface: 
+No surfaces selected.
+Select a surface: 
+No surfaces selected.
+Select a surface: 
+No surfaces selected.
+Select a surface: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: EXPLODE
+1 found
+
+Command: 
+Command: *Cancel*
+
+Command: _u EXPLODE 
+Command: 
+Command: *Cancel*
+
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression]: 
+
+Command: SL
+SLICE 
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: o
+
+Select a circle, ellipse, arc, 2D-spline, 2D-polyline to define the slicing plane: 
+Unable to extract the plane of the selected object.
+Select a circle, ellipse, arc, 2D-spline, 2D-polyline to define the slicing plane: 
+Unable to extract the plane of the selected object.
+Select a circle, ellipse, arc, 2D-spline, 2D-polyline to define the slicing plane: 
+Unable to extract the plane of the selected object.
+Select a circle, ellipse, arc, 2D-spline, 2D-polyline to define the slicing plane: 
+Unable to extract the plane of the selected object.
+Select a circle, ellipse, arc, 2D-spline, 2D-polyline to define the slicing plane: 
+Unable to extract the plane of the selected object.
+Select a circle, ellipse, arc, 2D-spline, 2D-polyline to define the slicing plane: 
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u INTELLIZOOM INTELLIZOOM INTELLIZOOM INTELLIZOOM 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_512620642_29b666f2.sv$ ...
+
+Command: 
+Command: _u ERASE 
+Command: _u SLICE 
+Command: _u EXTRUDE 
+Command: 
+Command: EXPLODE
+1 found
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _w 
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _3 
+Specify new origin point <0,0,0>: 
+Specify point on positive portion of X-axis <57.5685,0.0000,0.0000>:  <Osnap off> 
+Specify point on positive-Y portion of the UCS XY plane <57.5685,0.0000,0.0000>: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: Specify opposite corner: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-92.1991>: 
+
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: s
+
+Select a surface: 
+Select sliced object to keep or [keep Both sides] <Both>: 
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: SL
+SLICE 
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <92.4203>: 
+
+Command: 
+Command: _.erase 1 found
+
+Command: slide
+Unknown command "SLIDE".  Press F1 for help.
+
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: s
+
+Select a surface: 
+Select sliced object to keep or [keep Both sides] <Both>: 
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: J
+JOIN 2 found
+
+2 lines joined into 1 line
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <73.5808>: 
+
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: s
+
+Select a surface: 
+Select sliced object to keep or [keep Both sides] <Both>: 
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _w 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+10 found
+
+Specify base point or [Displacement] <Displacement>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: ROTATE3D
+
+Current positive angle:  ANGDIR=counterclockwise  ANGBASE=0
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]:  
+Resuming ROTATE3D command.
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]:  <Osnap on>  
+Resuming ROTATE3D command.
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: Specify second point on axis: 
+Specify rotation angle or [Reference]: 90
+
+Command: _u ROTATE3D 
+Command:  
+Command:  
+Command: ROTATE3D
+
+Current positive angle:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: ROTATE3D
+
+Current positive angle:  ANGDIR=counterclockwise  ANGBASE=0
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]:  <Osnap on> Specify second point on axis: 
+Specify rotation angle or [Reference]: -90
+
+Command: _u INTELLIZOOM 
+Command: _u ROTATE3D 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY
+10 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command: ROTATE3D
+
+Current positive angle:  ANGDIR=counterclockwise  ANGBASE=0
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]:  <Osnap on> Specify second point on axis: 
+Specify rotation angle or [Reference]: -90
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: move
+7 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+7 found
+
+Specify base point or [Displacement] <Displacement>: 
+Checking 946 intersections... 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: move
+10 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: move
+10 found
+
+Specify base point or [Displacement] <Displacement>: 
+Too many objects selected for INTERSECT
+
+Specify second point or <use first point as displacement>:  <Osnap off> 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+17 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _u 
+Command: _u MOVE 
+Command: 
+Command: *Cancel*
+
+Command: MIRROR
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 1 found, 4 total
+
+Select objects: 1 found, 5 total
+
+Select objects: 1 found, 6 total
+
+Select objects: 1 found, 7 total
+
+Select objects: 1 found, 8 total
+
+Select objects: 
+Specify first point of mirror line:  <Osnap on> 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: Y
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_512620642_29b666f2.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: j
+JOIN 7 found
+
+7 objects converted to 1 polyline
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: J
+JOIN 8 found
+
+8 objects converted to 1 polyline
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: REVOLVE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify axis start point or define axis by [Object/X/Y/Z] <Object>: 
+Specify axis endpoint: 
+
+Specify angle of revolution or [STart angle/Reverse/EXpression] <360>: 360
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: REVOLVE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+1 found
+
+Specify axis start point or define axis by [Object/X/Y/Z] <Object>: 
+Specify axis endpoint: 
+
+Specify angle of revolution or [STart angle/Reverse/EXpression] <360>: 360
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command: SU
+SUBTRACT Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command:  Regenerating model.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]:  Regenerating model.
+
+Resuming LINE command.
+
+Specify next point or [Undo]: 40
+
+Specify next point or [eXit/Undo]: 40
+
+Specify next point or [Close/eXit/Undo]: 80
+
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]:  Regenerating model.
+Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _3 
+Specify new origin point <0,0,0>: 
+Specify point on positive portion of X-axis <3077.3925,1222.7008,0.0000>:  <Osnap off> 
+Specify point on positive-Y portion of the UCS XY plane <3076.3925,1221.7008,0.0000>: 
+Command: l
+LINE 
+Specify first point:  <Osnap on> 
+Specify next point or [Undo]: 40
+
+Specify next point or [eXit/Undo]: 80
+
+Specify next point or [Close/eXit/Undo]: 80
+
+Specify next point or [Close/eXit/Undo]: 80
+
+Specify next point or [Close/eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: J
+JOIN 2 found
+
+2 lines joined into 1 line
+Command: 
+Command: e
+ERASE 1 found
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _3 
+Specify new origin point <0,0,0>: 
+Specify point on positive portion of X-axis <1.0000,0.0000,0.0000>:  <Osnap off> 
+Specify point on positive-Y portion of the UCS XY plane <0.0000,1.0000,0.0000>: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <70.0095>: 
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+3 found
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <116.3750>: 
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command:  
+Command:  
+Command:  
+Command:  
+Command: SL
+SLICE 
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: s
+
+Select a surface: 
+Select sliced object to keep or [keep Both sides] <Both>: 
+
+Command:  SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: s
+
+Select a surface: 
+Select sliced object to keep or [keep Both sides] <Both>: 
+
+Command:  SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: s
+
+Select a surface:  
+Resuming SLICE command.
+
+Select a surface: 
+Select sliced object to keep or [keep Both sides] <Both>: 
+
+Command:  
+Command:  SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: *Cancel*
+
+Command: *Cancel*
+
+Command:  SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: s
+
+Select a surface: 
+Select sliced object to keep or [keep Both sides] <Both>: 
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _w 
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _.erase 2 found
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _.erase 4 found
+
+Command:  
+Command:  
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _.erase 4 found
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+2 found
+
+Specify base point or [Displacement] <Displacement>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+7 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Regenerating layout.
+Regenerating layout.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _qsave 
+Command: HATCH
+
+Pick internal point or [Select objects/Undo/seTtings]: Selecting everything...
+Selecting everything visible...
+Analyzing the selected data...
+
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: 
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _properties _acadpane _opm _show 
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: <Osnap on> 
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 3
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: <Osnap off> 
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: 
+Command: 
+Command: _PAGESETUPEDIT 
+Command: MV
+MVIEW 
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: 122,280
+
+Command: 
+Command: _.erase 1 found
+
+Command: MV
+MVIEW 
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: 122,280
+Regenerating model.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: _.erase 1 found
+
+Command: REC
+RECTANG 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: @122,280
+
+Command: Regenerating layout.
+Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: REC
+RECTANG 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]:  <Osnap on> 
+Specify other corner point or [Area/Dimensions/Rotation]: @114,145
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** REMOVE VERTEX **
+Pick to remove vertex:
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_1943072419_7750741a.sv$ ...
+
+Command: 
+Command: _u Grip Edit 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command:  LAYOUT
+
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: *Cancel*
+
+Command: REC
+RECTANG 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: @114,135
+
+Command: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: REC
+RECTANG 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 144,138
+
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: REC
+RECTANG 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: @144,138
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+4 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: REC
+RECTANG 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: @144,152
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: MEA
+MEASUREGEOM 
+Enter an option [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <Distance>: q
+
+Move cursor or [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <eXit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: REC
+RECTANG 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: @144,128
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: mov
+Unknown command "MOV".  Press F1 for help.
+
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:*Cancel*
+
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXPLMODE
+
+Enter new value for EXPLMODE <1>: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXPLODE
+5 found
+
+Command: MVIEW
+
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: Regenerating model.
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _properties _acadpane _opm _show 
+Command: *Cancel*
+
+Command: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 3 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 3
+Command: _u DIMLINEAR 
+Command: dimnln
+Unknown command "DIMNLN".  Press F1 for help.
+
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]:  <Osnap off> 
+Dimension text = 3
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: DIMRAD
+DIMRADIUS 
+Select arc or circle: 
+Dimension text = 37
+Specify dimension line location or [Mtext/Text/Angle]: 
+Command: _u DIMRADIUS 
+Command: DIMRAD
+DIMRADIUS 
+Select arc or circle: 
+Dimension text = 37
+Specify dimension line location or [Mtext/Text/Angle]: 
+Command:  DIMRADIUS
+
+Select arc or circle: 
+Dimension text = 40
+Specify dimension line location or [Mtext/Text/Angle]: 
+Command: l
+LINE 
+Specify first point:  <Osnap on> 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 3
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: <Osnap off> 
+Command: *Cancel*
+
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _x 
+Specify rotation angle about X axis <90>: *Cancel*
+
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _3 
+Specify new origin point <0,0,0>: 
+Specify point on positive portion of X-axis <2537.6682,1352.7008,0.0000>: 
+Specify point on positive-Y portion of the UCS XY plane <2537.2747,1351.9057,0.0000>: *Cancel*
+
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_1943072419_7750741a.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _3 
+Specify new origin point <0,0,0>: 
+Specify point on positive portion of X-axis <2536.1682,1349.7207,0.0000>: 
+Specify point on positive-Y portion of the UCS XY plane <2534.5617,1350.5158,0.0000>: 
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 3
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _w 
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _w 
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 140
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: c
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <53.5685>: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:40
+
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:50
+
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:60
+
+Command: *Cancel*
+
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 80
+Command:  DIMLINEAR
+
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 80
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+Regenerating 15 modified entities.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: MVIEW
+
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: REC
+RECTANG 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: @122,280
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: mov
+Unknown command "MOV".  Press F1 for help.
+
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: MVIEW
+
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: _.MSPACE 
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+2 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: MV
+MVIEW 
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: FACETRES
+
+Enter new value for FACETRES <0.5000>: 10
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: MVIEW
+
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_1943072419_7750741a.sv$ ...
+
+Command: 
+Command: _.MSPACE 
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: MVIEW
+
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: L
+LINE 
+Specify first point: *Cancel*
+
+Command: _.PSPACE 
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: E
+ERASE 1 found
+
+Command: _u ERASE Regenerating layout.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: MVIEW
+
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: *Cancel*
+
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:57
+
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _properties _acadpane _opm _show 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+7 found
+
+Specify base point or [Displacement] <Displacement>: _u 
+Point or option keyword required.
+
+Specify base point or [Displacement] <Displacement>: _u 
+Point or option keyword required.
+
+Specify base point or [Displacement] <Displacement>: *Cancel*
+
+Command: *Cancel*
+
+Command: _u MOVE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: l
+LINE 
+Specify first point: 
+Too many objects selected for INTERSECT
+
+Specify next point or [Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: _u LINE 
+Command: l
+LINE 
+Specify first point: 
+Too many objects selected for INTERSECT
+
+Specify next point or [Undo]: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Too many objects selected for INTERSECT
+
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: l
+LINE 
+Specify first point: 
+Too many objects selected for INTERSECT
+
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Too many objects selected for INTERSECT
+
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_1943072419_7750741a.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: 
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+*Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: MVIEW
+
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+MVIEW
+
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_1943072419_7750741a.sv$ ...
+
+Command: 
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Checking 780 intersections... 
+Specify second extension line origin: _u 
+Invalid point input.
+Specify second extension line origin: _u 
+Invalid point input.
+Specify second extension line origin: _u 
+Invalid point input.
+Specify second extension line origin: *Cancel*
+
+Command: _u 
+Command: 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: 
+
+** MOVE AND ALIGN ** 
+Specify origin point or align to face, surface, or mesh: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: UCS3DPERPDISPLAYSETTING
+
+Enter new value for UCS3DPERPDISPLAYSETTING <ON>: *Cancel*
+
+Command: UCS
+
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: 
+Specify point on X-axis or <accept>: 
+Specify point on the XY plane or <accept>: 
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: *Cancel*
+
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: *Cancel*
+
+Command: DIMLN
+DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 80
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command:  DIMLINEAR
+
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 80
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: MVIEW
+
+Specify corner of viewport or [ON/OFF/Fit/Shadeplot/Lock/NEw/NAmed/Object/Polygonal/Restore/LAyer/2/3/4] <Fit>: 
+Specify opposite corner: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command:  
+Command: UCS
+
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _LAYOUT 
+Point or option keyword required.
+
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _S 
+Enter name to save current UCS or [?]: Model
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: *Cancel*
+
+Command: UCS
+
+Current ucs name:  Model
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _w 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: UCS
+
+Current ucs name:  Model
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: UCS
+
+Current ucs name:  Model
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: 
+Specify point on X-axis or <accept>: 
+Specify point on the XY plane or <accept>: 
+
+Points are colinear
+
+Specify point on the XY plane or <accept>: 
+
+Points are colinear
+
+Specify point on the XY plane or <accept>: 
+Command: 
+Command: 
+Command: 
+
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: 
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command:  
+Command:  
+Command: _u menu item 
+Command:  
+Command: _.PSPACE 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_1943072419_7750741a.sv$ ...
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: TEXX
+TEXT 
+Current text style:  "Standard"  Text height:  2.5000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE
+8 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: TEXX
+TEXT 
+Current text style:  "Standard"  Text height:  2.5000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <2.5000>: 6
+
+Specify rotation angle of text <0>: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE 5 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: MOVE 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: TEXX TEXT 
+Current text style:  "Standard"  Text height:  6.0000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <6.0000>: 7
+
+Specify rotation angle of text <0>: 
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: move
+2 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: TEXX TEXT 
+Current text style:  "Standard"  Text height:  7.0000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <7.0000>: 6
+
+Specify rotation angle of text <0>: *Cancel*
+
+Command: *Cancel*
+
+Command: texx
+TEXT 
+Current text style:  "Standard"  Text height:  7.0000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Checking 990 intersections... 
+Specify height <7.0000>: 6
+
+Specify rotation angle of text <0>: 
+Checking 861 intersections... 
+Command: 
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05/Kormoua5_1_1943072419_7750741a.sv$ ...
+
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Too many objects selected for INTERSECT
+
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: move
+1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: move
+19 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: move
+19 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: PLOT Effective plotting area:  287.00 wide by 386.00 high
+Effective plotting area:  279.99 wide by 121.99 high
+Effective plotting area:  144.99 wide by 113.98 high
+Effective plotting area:  134.99 wide by 113.98 high
+Effective plotting area:  127.99 wide by 144.00 high
+Effective plotting area:  151.99 wide by 144.00 high
+
+Plotting viewport 1.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: move
+3 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: _u LAYOUT Regenerating layout.
+
+Command: _u LAYOUT 
+Command: _u MOVE 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Regenerating layout.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: PLOT Effective plotting area:  287.00 wide by 386.00 high
+Effective plotting area:  279.99 wide by 121.99 high
+Effective plotting area:  144.99 wide by 113.98 high
+Effective plotting area:  134.99 wide by 113.98 high
+Effective plotting area:  127.99 wide by 144.00 high
+Effective plotting area:  151.99 wide by 144.00 high
+
+Plotting viewport 1.
+Effective plotting area:  287.00 wide by 386.00 high
+Effective plotting area:  279.99 wide by 121.99 high
+Effective plotting area:  144.99 wide by 113.98 high
+Effective plotting area:  134.99 wide by 113.98 high
+Effective plotting area:  127.99 wide by 144.00 high
+Effective plotting area:  151.99 wide by 144.00 high
+
+Plotting viewport 1.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command: 
+
+
+
+
+
+Command:  
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Restoring cached viewports - Regenerating layout.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Model
+Restoring cached viewports.
+
+Command:  
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: 
+Command: _quit 
+Command: 

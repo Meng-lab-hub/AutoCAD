@@ -1,0 +1,1290 @@
+[ AutoCAD - Wed Apr 29 08:54:33 2020  ]----------------------------------------
+
+Opening an AutoCAD 2013/LT 2013 format file.
+
+
+AutoCAD menu utilities loaded.
+AutoCAD menu utilities loaded.
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 7 found
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Layout1>: Layout1
+Regenerating layout.
+
+Command: 
+
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: 
+
+Enter layout to rename <Layout1>: 
+
+Enter new layout name: 
+Layout "Layout1" renamed to "Task5".
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MEA MEASUREGEOM 
+Enter an option [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <Distance>: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: MEA MEASUREGEOM 
+Enter an option [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <Distance>: q
+
+Move cursor or [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <eXit>: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+
+Command: 
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: -V -VIEW Enter an option [?/Delete/Orthographic/Restore/Save/sEttings/Window]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: PAGESETUP 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.PSPACE 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: E ERASE 2 found
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: MEA MEASUREGEOM 
+Enter an option [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <Distance>: q
+
+Move cursor or [Distance/Radius/Angle/ARea/Volume/Quick/Mode/eXit] <eXit>: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: e
+ERASE 1 found
+
+Command: 
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05_fixed/Kormoua5_1_2023258559_17f9ce94.sv$ ...
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: ROTATE 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+10 found
+
+Specify base point: 
+Too many objects selected for INTERSECT
+
+Specify rotation angle or [Copy/Reference] <0>: 180
+
+Command: _u ROTATE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: ROTATE3D 
+Current positive angle:  ANGDIR=counterclockwise  ANGBASE=0
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: _LAYOUT 
+Invalid input.
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: _S 
+Invalid input.
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: Model
+
+Invalid input.
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: _LAYOUT 
+Invalid input.
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: _S 
+Invalid input.
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: Model
+
+Invalid input.
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]:  *Cancel*
+
+Resuming ROTATE3D command.
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: ROTATE 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+10 found
+
+Specify base point: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: ROTATE3D 
+Current positive angle:  ANGDIR=counterclockwise  ANGBASE=0
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: y
+Specify a point on the Y axis <0,0,0>:  
+Too many objects selected for INTERSECT
+
+Resuming ROTATE3D command.
+Specify a point on the Y axis <0,0,0>:  
+Resuming ROTATE3D command.
+Specify a point on the Y axis <0,0,0>:  
+Resuming ROTATE3D command.
+Specify a point on the Y axis <0,0,0>:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Resuming ROTATE3D command.
+Specify a point on the Y axis <0,0,0>: *Cancel*
+
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: ROTATE3D 
+Current positive angle:  ANGDIR=counterclockwise  ANGBASE=0
+ 
+Specify first point on axis or define axis by 
+[Object/Last/View/Xaxis/Yaxis/Zaxis/2points]: Specify second point on axis: 
+Specify rotation angle or [Reference]: 180
+
+Command: _u INTELLIZOOM 
+Command: _u ROTATE3D 
+Command: _u VSCURRENT 
+Command: _u GROUP menu item 
+Command: _u ROTATE3D 
+Command: _u 
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: ROTATE 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+10 found
+
+Specify base point: 
+Too many objects selected for INTERSECT
+
+Specify rotation angle or [Copy/Reference] <0>: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: _u Grip Edit 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: move
+10 found
+
+Specify base point or [Displacement] <Displacement>: 
+Too many objects selected for INTERSECT
+
+Specify second point or <use first point as displacement>: *Cancel*
+
+Command: _.PSPACE 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05_fixed/Kormoua5_1_2023258559_17f9ce94.sv$ ...
+
+Command: 
+Command: 
+Command: MOVE 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Too many objects selected for INTERSECT
+
+Specify second point or <use first point as displacement>: 
+Too many objects selected for INTERSECT
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Checking 561 intersections... 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: 
+Command: ROTATE 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+1 found
+
+Specify base point: 
+Too many objects selected for INTERSECT
+
+Specify rotation angle or [Copy/Reference] <0>: 180
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Checking 741 intersections... 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Too many objects selected for INTERSECT
+
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY 10 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _u COPY 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 10 found
+
+Command: COPY 
+Select objects: *Cancel*
+
+Command: *Cancel*
+
+Command: _u COPY 
+Command: _u ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY 10 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: _u ERASE 
+Command: SU SUBTRACT Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: 
+Command: 
+Command: _.erase 2 found
+
+Command: MIRROR3D 
+Select objects: 1 found
+
+Select objects: 
+ 
+Specify first point of mirror plane (3 points) or 
+[Object/Last/Zaxis/View/XY/YZ/ZX/3points] <3points>: Specify second point on mirror plane: 
+Checking 1081 intersections... Specify third point on mirror plane: 
+Delete source objects? [Yes/No] <N>: n
+
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: mov
+Unknown command "MOV".  Press F1 for help.
+
+Command: MOVE 2 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: FACETRES 
+Enter new value for FACETRES <10.0000>: *Cancel*
+
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: _.PSPACE 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05_fixed/Kormoua5_1_2023258559_17f9ce94.sv$ ...
+
+Command: 
+Command: _.MSPACE 
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: mov
+Unknown command "MOV".  Press F1 for help.
+
+Command: MOVE 
+Select objects: Specify opposite corner: 0 found
+Select objects: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE 1 found
+
+Specify base point or [Displacement] <Displacement>: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: _.PSPACE 
+Command: m*Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Too many objects selected for INTERSECT
+
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: MOVE 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: mov
+Unknown command "MOV".  Press F1 for help.
+
+Command: MOVE 1 found
+
+Specify base point or [Displacement] <Displacement>: 
+Too many objects selected for INTERSECT
+
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: DIMLN DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Checking 1176 intersections... 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 80
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:  DIMLINEAR
+
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Checking 666 intersections... 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 80
+Command: '_dimstyle 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05_fixed/Kormoua5_1_2023258559_17f9ce94.sv$ ...
+
+Command: 
+Command: 
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+diml*Cancel*
+
+Command: '_dimstyle 
+Command: DIMLN DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 80
+Command: 
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Command: *Cancel*
+
+Command: 
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Command: 
+Command: 
+Command: E ERASE 1 found
+
+Command: 
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 2 found
+
+Command: '_dimstyle 
+Command: l
+LINE 
+Specify first point: *Cancel*
+
+Command: DIMLN DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Checking 820 intersections... 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 80
+Command:  DIMLINEAR
+
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: 
+Dimension text = 80
+Command: 
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+
+Viewport is view-locked. Switching to Paper space.
+
+Switching back to Model space.
+_LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command: 
+Command: 
+Command: '_dimstyle 
+Command: 
+Command: 
+Dimension disassociated.*Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Dimension disassociated.*Cancel*
+
+Command: 
+Command: e
+ERASE 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: l
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [eXit/Undo]: 
+Specify next point or [Close/eXit/Undo]: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: _.PSPACE 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: e
+ERASE 1 found
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: DIMLN DIMLINEAR 
+Specify first extension line origin or <select object>: 
+Specify second extension line origin: 
+Specify dimension line location or 
+[Mtext/Text/Angle/Horizontal/Vertical/Rotated]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05_fixed/Kormoua5_1_2023258559_17f9ce94.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: _.PSPACE 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+
+Command: LAYER 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.MSPACE 
+Command: 
+
+
+
+
+
+Command:  
+Command: 
+
+
+
+
+
+Command:  
+Command: _.PSPACE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _properties 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _properties 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _properties 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _properties 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _properties 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: PLOT Effective plotting area:  287.00 wide by 386.00 high
+Effective plotting area:  279.99 wide by 121.98 high
+Effective plotting area:  144.99 wide by 113.98 high
+Effective plotting area:  134.99 wide by 113.98 high
+Effective plotting area:  127.99 wide by 144.00 high
+Effective plotting area:  151.99 wide by 144.00 high
+
+Plotting viewport 1.
+Effective plotting area:  287.00 wide by 386.00 high
+Effective plotting area:  279.99 wide by 121.98 high
+Effective plotting area:  144.99 wide by 113.98 high
+Effective plotting area:  134.99 wide by 113.98 high
+Effective plotting area:  127.99 wide by 144.00 high
+Effective plotting area:  151.99 wide by 144.00 high
+
+Plotting viewport 1.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Automatic save to /Users/meng/Documents/Foundation of Informatics/Informatics_2/Autocad/Khongmeng_Task05_fixed/Kormoua5_1_2023258559_17f9ce94.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _qsave 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+Regenerating 11 modified entities.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: PL PLINE 
+Specify start point: *Cancel*
+
+Command: *Cancel*
+
+Command: plot
+Effective plotting area:  287.00 wide by 386.00 high
+Effective plotting area:  279.99 wide by 121.98 high
+Effective plotting area:  144.99 wide by 113.98 high
+Effective plotting area:  134.99 wide by 113.98 high
+Effective plotting area:  127.99 wide by 144.00 high
+Effective plotting area:  151.99 wide by 144.00 high
+
+Plotting viewport 1.
+Effective plotting area:  287.00 wide by 386.00 high
+Effective plotting area:  279.99 wide by 121.98 high
+Effective plotting area:  144.99 wide by 113.98 high
+Effective plotting area:  134.99 wide by 113.98 high
+Effective plotting area:  127.99 wide by 144.00 high
+Effective plotting area:  151.99 wide by 144.00 high
+
+Plotting viewport 1.
+
+Command: 
+Command: 
+Command: _qsave 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Model
+Restoring cached viewports.
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _acadpane _leftpane _hide 
+Command: _LAYOUT 
+Enter layout option [Copy/Delete/New/Template/Rename/SAveas/Set/?] <set>: _S 
+Enter layout to make current <Task5>: Task5
+Restoring cached viewports - Regenerating layout.
+
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: 
+Command: _quit 
+Command: 

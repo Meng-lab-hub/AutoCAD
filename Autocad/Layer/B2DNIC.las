@@ -1,0 +1,154 @@
+  0
+LAYERSTATEDICTIONARY
+  0
+LAYERSTATE
+  1
+B2DNIC
+ 91
+2047
+301
+
+290
+0
+302
+0
+  8
+text
+ 90
+8
+ 62
+124
+370
+-3
+  6
+Continuous
+  2
+Color_124
+440
+0
+  8
+tangent faces
+ 90
+8
+ 62
+202
+370
+-3
+  6
+Continuous
+  2
+Color_202
+440
+0
+  8
+solid
+ 90
+8
+ 62
+9
+370
+-3
+  6
+Continuous
+  2
+Color_9
+440
+0
+  8
+section border
+ 90
+8
+ 62
+8
+370
+30
+  6
+Continuous
+  2
+Color_8
+440
+0
+  8
+result
+ 90
+8
+ 62
+7
+370
+40
+  6
+Continuous
+  2
+Color_7
+440
+0
+  8
+hidden
+ 90
+8
+ 62
+252
+370
+-3
+  6
+HIDDEN
+  2
+Color_252
+440
+0
+  8
+hatch
+ 90
+8
+ 62
+242
+370
+-3
+  6
+Continuous
+  2
+Color_242
+440
+0
+  8
+dimensions
+ 90
+8
+ 62
+152
+370
+-3
+  6
+Continuous
+  2
+Color_152
+440
+0
+  8
+axis
+ 90
+8
+ 62
+132
+370
+-3
+  6
+CENTER
+  2
+Color_132
+440
+0
+  8
+0
+ 90
+8
+ 62
+10
+370
+-3
+  6
+Continuous
+  2
+Color_10
+440
+0

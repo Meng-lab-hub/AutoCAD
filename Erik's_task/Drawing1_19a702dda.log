@@ -1,0 +1,46 @@
+[ AutoCAD - Mon Jul 13 22:36:34 2020  ]----------------------------------------
+Regenerating model.
+
+
+AutoCAD menu utilities loaded.
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+Command: 
+
+Command: 
+Command: 
+
+Command: 
+Command: 
+
+Command: 
+Command: 
+Command:  
+Command: 
+Command: 
+Command:  
+Command: '_content 
+Command:    
+Command: 
+Command: 
+Command: 
+Command: 
+Command:    
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _acadpane _leftpane _show 
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 
+Specify height or [2Point]: 
+Crossing Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: _quit 
+Command: 
